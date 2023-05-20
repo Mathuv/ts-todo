@@ -1,0 +1,23 @@
+{
+  "name": "ts-todo",
+  "version": "1.0.0",
+  "description": "A TODO app in TypeScript for learning purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathuv/ts-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathuv/ts-todo/issues"
+  },
+  "homepage": "https://github.com/Mathuv/ts-todo#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
